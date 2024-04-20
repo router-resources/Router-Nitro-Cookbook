@@ -6,7 +6,7 @@ Prior to diving into SDK usage, let's establish our initial environment and inst
 
 ### Step1: Setting up the project
 
-To begin, open your preferred code editor. I'll be using VS Code for this tutorial. Next, ensure you have Node.js installed. You can download it from https://nodejs.org/en/download.
+To begin, open your preferred code editor. I'll be using VS Code for this tutorial. Next, ensure you have Node.js installed. You can download it from [Here](https://nodejs.org/en/download.)
 Once Node.js is installed, verify its installation by running node -v and npm -v in your terminal. After confirming Node.js is set up properly, open VS Code and proceed with the following steps.
 
 **Create a Project Directory:** 
